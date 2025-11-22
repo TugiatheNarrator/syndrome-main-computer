@@ -15,7 +15,7 @@ export const encounters: Array<Encounter> = [
   { superSlug: 'hyper-shock', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
   { superSlug: 'apogee', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
   { superSlug: 'peeping-tom', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
-  { superSlug: 'blizerman', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
+  { superSlug: 'blitzerman', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
   { superSlug: 'tradewind', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
   { superSlug: 'vectress', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
   { superSlug: 'fironic', omnidroidSlug: 'X4', superDefeated: true, omnidroidDefeated: false },
