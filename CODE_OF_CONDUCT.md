@@ -1,1 +1,1 @@
-Just don't be a jerk. And by jerk I mean breaking rules of GitHub or the law.
+Please follow the same Code of Conduct as the original project - https://github.com/Giuseppetm/syndrome-main-computer/
