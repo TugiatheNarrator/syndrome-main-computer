@@ -58,6 +58,6 @@ export const supersResult: Array<SuperResult> = [
       'Spontaneous generation of ice from water sources, freeze surface areas in excess of five hundreds meters. Manipulation of water for the formation of ice in solid form and structures in this material. He can generate ice from his fingertips but is limited by the amount of moisture in the air and his body. ',
     lastActiveRecord: '17.12.56',
     locationKnown: true,
-    threatRating: '8.0 Exercise moderate caution',
+    threatRating: '8.9 Exercise high caution',
   },
 ]
